@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\ReverseLibrary\bin\Debug\ReverseLibrary.dll
+C:\Users\Vlad\source\repos\ReverseLibrary\bin\Debug\ReverseLibrary.pdb
+C:\Users\Vlad\source\repos\ReverseLibrary\obj\Debug\ReverseLibrary.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\ReverseLibrary\obj\Debug\ReverseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ReverseLibrary\obj\Debug\ReverseLibrary.dll
+C:\Users\Vlad\source\repos\ReverseLibrary\obj\Debug\ReverseLibrary.pdb
